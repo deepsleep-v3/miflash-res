@@ -3,16 +3,17 @@ name: Github Pages
 on:
 #   push:
 #     branches:
-#       - master          # ⚠️ 如果你的仓库默认分支是 main，请改为 main
-  workflow_dispatch:
+#       - master          # 如果你的默认分支是 main，请改为 main
+  workflow_dispatch:    # 手动触发
 
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ 关键：授予写入权限
     steps:
       - uses: actions/checkout@v4
 
-      # 缓存 Ruby gems，加速后续构建
       - uses: actions/cache@v4
         with:
           path: vendor/bundle
@@ -20,15 +21,14 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      # 使用第三方 Action 构建并部署 Jekyll（支持自定义插件）
       - uses: jeffreytse/jekyll-deploy-action@v0.6.0
         with:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ''               # 留空表示当前仓库
-          branch: 'gh-pages'           # 部署目标分支
-          jekyll_src: './'             # 源码目录
-          jekyll_cfg: '_config.yml'    # 配置文件
-          jekyll_baseurl: '/miflash-res'   # ⚠️ 必须与 _config.yml 中的 baseurl 一致
-          cname: ''                    # 如果有自定义域名，填在这里
-          actor: ''                    # 留空则使用 GITHUB_ACTOR
+          repository: ''
+          branch: 'gh-pages'
+          jekyll_src: './'
+          jekyll_cfg: '_config.yml'
+          jekyll_baseurl: '/miflash-res'
+          cname: ''
+          actor: ''
