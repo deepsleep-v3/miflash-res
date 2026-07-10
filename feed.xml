@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/miflash-res/feed.xml" rel="self" type="application/atom+xml" /><link href="/miflash-res/" rel="alternate" type="text/html" /><updated>2026-07-10T12:19:54+08:00</updated><id>/miflash-res/feed.xml</id><title type="html">XIAOMI Flashing Resources / 小米玩机工具</title><subtitle>小米最近收紧BL政策，注意！</subtitle><author><name>deepsleep-v3</name></author><entry><title type="html">Welcome to 小米刷机圈！</title><link href="/miflash-res/%E5%9F%BA%E6%93%8D/2026/07/09/mi-bl-oem-unlock.html" rel="alternate" type="text/html" title="Welcome to 小米刷机圈！" /><published>2026-07-09T00:00:00+08:00</published><updated>2026-07-09T00:00:00+08:00</updated><id>/miflash-res/%E5%9F%BA%E6%93%8D/2026/07/09/mi-bl-oem-unlock</id><content type="html" xml:base="/miflash-res/%E5%9F%BA%E6%93%8D/2026/07/09/mi-bl-oem-unlock.html"><![CDATA[<h1 id="欢迎来到刷机圈">欢迎来到刷机圈！！！</h1>
+<p>我相信你已迫不及待，但别急！有个基本操作要做——</p>
+<h2 id="解bl锁">解BL锁。</h2>
+<p>BL锁（Bootloader），是OEM为了保证你的设备不受恶意程序侵害，而设计的保护机制。<span class="heimu" title="你知道的太多了">（其实就是厂商不想让你把OEM服务刷掉） </span>。<br />
+那怎么解呢？在小米全系设备上有以下几种解锁方式。<br />
+—</p>
+<h3 id="1-有些机型是无锁的">1. 有些机型是无锁的。</h3>
+<p>那么众所周知，雷军在发布会上提过：“那小米手机呢？是无锁的。可以随便刷机。”那么这个承诺也是实现了。<span class="heimu" title="你知道的太多了">至少在那些早期机型 </span>出厂解锁的机型如以下所示：</p>
+<ol>
+  <li>小米4C</li>
+  <li>小米4S</li>
+  <li>小米5</li>
+  <li>小米5S</li>
+  <li>小米5S Plus</li>
+  <li>小米6</li>
+  <li>小米6 Plus</li>
+  <li>小米8</li>
+  <li>小米8 SE</li>
+  <li>小米8 青春版</li>
+  <li>小米MIX</li>
+  <li>小米MIX 2</li>
+  <li>小米MIX 2S</li>
+  <li>小米MAX</li>
+  <li>小米MAX 2</li>
+  <li>小米MAX 3</li>
+  <li>红米Pro</li>
+  <li>红米Note 3</li>
+  <li>红米Note 4X</li>
+  <li>红米Note 5</li>
+  <li>红米Note 5A</li>
+  <li>……</li>
+</ol>
+
+<h3 id="2-从出厂到解bl锁时未升级过hyperos的">2. 从出厂到解BL锁时未升级过HyperOS的。</h3>
+<p>如果从出场到现在还是MIUI的。那可以下载<a href="https://www.miui.com/unlock/index.html">MiFlash-Unlock</a>，绑定账号后，等上个7天就可以解锁。</p>
+<h3 id="3-手欠升级到hyperos或者出厂就是hyperos的新机型">3. 手欠升级到HyperOS或者出厂就是HyperOS的新机型。</h3>
+<p>懂的都懂。要经历小米高考、社区账号达到5级……如果真的想解的话，请去前文下载MiFlash-Unlock。<br />
+而如果不想经历这么重重磨难的，我强烈建议你：<em><strong>收一台一加（OnePlus）手机专门玩吧。</strong></em></p>]]></content><author><name>deepsleep-v3</name></author><category term="基操" /><category term="basic" /><summary type="html"><![CDATA[欢迎来到刷机圈！！！ 我相信你已迫不及待，但别急！有个基本操作要做—— 解BL锁。 BL锁（Bootloader），是OEM为了保证你的设备不受恶意程序侵害，而设计的保护机制。（其实就是厂商不想让你把OEM服务刷掉） 。 那怎么解呢？在小米全系设备上有以下几种解锁方式。 — 1. 有些机型是无锁的。 那么众所周知，雷军在发布会上提过：“那小米手机呢？是无锁的。可以随便刷机。”那么这个承诺也是实现了。至少在那些早期机型 出厂解锁的机型如以下所示： 小米4C 小米4S 小米5 小米5S 小米5S Plus 小米6 小米6 Plus 小米8 小米8 SE 小米8 青春版 小米MIX 小米MIX 2 小米MIX 2S 小米MAX 小米MAX 2 小米MAX 3 红米Pro 红米Note 3 红米Note 4X 红米Note 5 红米Note 5A ……]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/miflash-res/jekyll/2015/01/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2015-01-01T00:00:00+08:00</published><updated>2015-01-01T00:00:00+08:00</updated><id>/miflash-res/jekyll/2015/01/01/welcome-to-jekyll</id><content type="html" xml:base="/miflash-res/jekyll/2015/01/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<h2 id="section-1">section 1</h2>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+<span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<h2 id="section-2">section 2</h2>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+<p>$ a * b = c ^ b $</p>
+
+<p>$ 2^{\frac{n-1}{3}} $</p>
+
+<p>$ \int_a^b f(x)\,dx. $</p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include</span> <span class="cpf">&lt;iostream&gt;</span><span class="cp">
+</span><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
+  <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"Hello World!"</span><span class="p">;</span>
+  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c1">// prints 'Hi, Tom' to STDOUT.</span>
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Person</span><span class="p">:</span>
+  <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="n">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">age</span><span class="p">):</span>
+    <span class="n">self</span><span class="p">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+    <span class="n">self</span><span class="p">.</span><span class="n">age</span> <span class="o">=</span> <span class="n">age</span>
+
+<span class="n">p1</span> <span class="o">=</span> <span class="nc">Person</span><span class="p">(</span><span class="sh">"</span><span class="s">John</span><span class="sh">"</span><span class="p">,</span> <span class="mi">36</span><span class="p">)</span>
+
+<span class="nf">print</span><span class="p">(</span><span class="n">p1</span><span class="p">.</span><span class="n">name</span><span class="p">)</span>
+<span class="nf">print</span><span class="p">(</span><span class="n">p1</span><span class="p">.</span><span class="n">age</span><span class="p">)</span>
+</code></pre></div></div>]]></content><author><name>Jeffrey</name></author><category term="jekyll" /><category term="jekyll" /><category term="theme" /><category term="yat" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
