@@ -1,0 +1,18 @@
+// ==========================================
+// 黑幕 (Heimu) 样式 - 仿萌娘百科
+// ==========================================
+.heimu, .heimu a, a .heimu {
+  background-color: #252525;
+  color: #252525;
+  text-shadow: none;
+}
+
+.heimu:hover, .heimu:active,
+.heimu:hover .heimu, .heimu:active .heimu {
+  color: #ffffff !important;
+}
+
+.heimu:hover a, a:hover .heimu,
+.heimu:active a, a:active .heimu {
+  color: #add8e6 !important; // 浅蓝色，与深色背景更搭
+}
